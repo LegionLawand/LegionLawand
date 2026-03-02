@@ -29,6 +29,7 @@ This is where I share my coding journey, practice projects, and notes as I learn
 - Create visually authentic web designs with HTML & CSS.  
 
 ---
+
 🔧 &nbsp;**My Skills**
 <p align="left">
   <!-- HTML -->
@@ -43,9 +44,13 @@ This is where I share my coding journey, practice projects, and notes as I learn
   <!-- Python -->
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40" />
   
-  <!-- CCNA (Cisco) -->
+  <!-- VB.NET (using Visual Studio icon since VB.NET doesn’t have its own) -->
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VB.NET" height="40" width="40" />
+  
+  <!-- CCNA (Cisco logo) -->
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Cisco_logo.svg" alt="CCNA" height="40" width="60" />
 </p>
+
 ---
 ## 🌱 About Me
 
