@@ -33,23 +33,26 @@ This is where I share my coding journey, practice projects, and notes as I learn
 🔧 &nbsp;**My Skills**
 <p align="left">
   <!-- HTML -->
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
   
   <!-- CSS -->
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
   
   <!-- Linux -->
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   
   <!-- Python -->
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   
-  <!-- VB.NET (using Visual Studio icon since VB.NET doesn’t have its own) -->
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VB.NET" height="40" width="40" />
+  <!-- VB.NET (Visual Studio icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VB.NET" width="40" height="40" />
   
-   <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" /></p>
-
+  <!-- CCNA (your uploaded image) -->
+  <img src="images/ccna.jpg" alt="CCNA" width="60" height="60" />
+  
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+</p>
 
 ---
 ## 🌱 About Me
