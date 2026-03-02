@@ -48,7 +48,7 @@ This is where I share my coding journey, practice projects, and notes as I learn
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VB.NET" height="40" width="40" />
   
   <!-- CCNA (Cisco logo) -->
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Cisco_logo.svg" alt="CCNA" height="40" width="60" />
+  <img align="center" src="/attachments/QUijTvv1dauyx73qteyZL.png" alt="CCNA" height="40" width="60" />
 </p>
 
 ---
