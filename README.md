@@ -47,8 +47,6 @@ This is where I share my coding journey, practice projects, and notes as I learn
   <!-- VB.NET (Visual Studio icon) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VB.NET" width="40" height="40" />
   
-  <!-- CCNA (your uploaded image) -->
-  <img src="Lawand/ccna.jpg" alt="CCNA" width="60" height="60" />
   
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
