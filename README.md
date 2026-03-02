@@ -46,7 +46,11 @@ This is where I share my coding journey, practice projects, and notes as I learn
   
   <!-- VB.NET (using Visual Studio icon since VB.NET doesn’t have its own) -->
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VB.NET" height="40" width="40" />
-  
+
+    <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+</p>
+
 
 ---
 ## 🌱 About Me
