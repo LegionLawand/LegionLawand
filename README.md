@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub
 
-<!--
-**LegionLawand/LegionLawand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Lawand!  
+This is where I share my coding journey, practice projects, and notes as I learn new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Repositories Overview
+
+- 🐧 **Linux Cheat Sheets**  
+  Archiving, compression, and basic command references for quick use.
+
+- 💻 **VB.NET Practice Code**  
+  Beginner-level snippets and exercises (not full projects yet).
+
+- 🐍 **Python Basics**  
+  Variables, loops, and simple scripts — documenting my progress as I learn Python.
+
+- 🎨 **Web Design (HTML & CSS)**  
+  Layouts, styling experiments, and creative design practice.
+
+---
+
+## 🚀 Current Goals
+
+- Strengthen my Python skills step by step.  
+- Build more structured projects in VB.NET and Python.  
+- Explore advanced Linux workflows.  
+- Create visually authentic web designs with HTML & CSS.  
+
+---
+
+## 🌱 About Me
+
+I use GitHub to:
+- Track my progress as I learn programming.  
+- Share resources that might help other beginners.  
+- Experiment with both technical precision and creative design.  
+
+---
+
+⭐ **Thanks for visiting my GitHub!**  
+Follow along as I keep learning and building 🚀
