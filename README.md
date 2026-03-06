@@ -1,71 +1,61 @@
-<!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Lawnd+👋;Aspiring+Software+Developer;Always+Learning.+Always+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lawnd!;Aspiring+Software+Developer;Python+Learner+%F0%9F%90%8D" alt="Typing SVG" />
 </div>
 
-<br/>
+<h3 align="center">Aspiring Software Developer | Python Learner</h3>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=58a6ff&label=Profile+Views)
+<hr>
 
-</div>
+<h2>🚀 About Me</h2>
 
----
+<ul>
+  <li>🐍 Currently learning <b>Python</b></li>
+  <li>🌐 Skilled in <b>HTML</b> and <b>CSS</b></li>
+  <li>💻 Familiar with <b>VB.NET</b></li>
+  <li>🔧 Using <b>Git & GitHub</b> for version control</li>
+  <li>📈 Focused on improving my programming skills every day</li>
+</ul>
 
-### 👨‍💻 About Me
+<hr>
 
-I'm a self-driven developer focused on building my skills one project at a time.
+<h2>🛠️ Skills</h2>
 
-- 🐍 Currently learning **Python**
-- 🌐 Building with **HTML & CSS**
-- 💻 Experienced with **VB.NET**
-- 🔧 Version control with **Git & GitHub**
-- 🎯 Goal: Become a full-stack software developer
+<h3>👩‍💻 Programming Languages</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50"/>
+</p>
 
----
+<h3>🌐 Web Development</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+</p>
 
-### 🧰 Tech Stack
+<h3>🔧 Tools</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+</p>
 
-**Languages**
+<hr>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+<h2>📊 GitHub Stats</h2>
 
-**Tools**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<hr>
 
----
+<h2>📬 Contact Me</h2>
 
-### 📊 GitHub Stats
+<p align="center">
+  <a href="https://instagram.com/your_instagram_username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="160"/>
-</div>
+<hr>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160"/>
-</div>
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-
-</div>
-
----
-
-<div align="center">
-  <sub>⭐ Star some repos if you find them helpful!</sub>
-</div>
+<h3 align="center">⭐ Always Learning. Always Building.</h3>
