@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lawnd!;Aspiring+Software+Developer;Python+Learner+%F0%9F%90%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lawand!;Aspiring+Software+Developer" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Aspiring Software Developer | Python Learner</h3>
@@ -59,4 +59,3 @@
 <hr>
 
 <h3 align="center">⭐ Always Learning. Always Building.</h3>
-
