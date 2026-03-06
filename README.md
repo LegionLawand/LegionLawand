@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lawand!;Aspiring+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lawand!" alt="Typing SVG" />
 </div>
-
-<h3 align="center">Aspiring Software Developer | Python Learner</h3>
 
 <hr>
 
@@ -43,7 +41,7 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LegionLawand&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <hr>
@@ -51,7 +49,7 @@
 <h2>📬 Contact Me</h2>
 
 <p align="center">
-  <a href="https://instagram.com/your_instagram_username" target="_blank">
+  <a href="https://instagram.com/llawand.1" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/>
   </a>
 </p>
