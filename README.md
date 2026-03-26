@@ -14,11 +14,10 @@
 
 | | |
 |---|---|
-| 📍 Location | Hawler (Erbil), Kurdistan Region, Iraq |
 | 🏫 School | Hawler Computer Institute |
 | 🎯 Focus | Programming + Networking |
 | 📖 Status | Student & lifelong learner |
-| 💬 Motto | "Every expert was once a beginner" |
+| 💬 Motto | Every expert was once a beginner |
 
 ---
 
@@ -58,18 +57,6 @@
 </div>
 
 ---
-
-## 🚀 My Journey So Far
-
-| Stage | What I Learned | Status |
-|-------|---------------|--------|
-| 🌱 The Beginning | Computer basics, problem solving | ✅ Done |
-| 🌐 Web Foundations | HTML & CSS | ✅ Done |
-| 🐍 Scripting | Python programming | 🔄 In Progress |
-| 🖥️ Desktop Apps | VB.NET & Windows forms | 🔄 In Progress |
-| 🔌 Networking | Cisco Packet Tracer, IP, Routing | 🔄 In Progress |
-| 🔥 What's Next | Projects, more languages, open source | ⏳ Coming Soon |
-
 ---
 
 ## 📬 Connect With Me
