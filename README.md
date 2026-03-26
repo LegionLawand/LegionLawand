@@ -10,12 +10,12 @@
 
 ---
 
-##  About Me
+## About Me
 
 | | |
 |---|---|
-| 🎯 Focus | Programming + Networking |
-| 📖 Status | Student & lifelong learner |
+| 🎯 Focus | Programming & Networking |
+| 📖 Status | Student & Lifelong Learner |
 | 💬 Motto | Every expert was once a beginner |
 
 ---
@@ -40,7 +40,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+---
+
+## 📂 Projects
+
+<div align="center">
+
+[![Project 1](https://img.shields.io/badge/Calculator-Python-blue?style=for-the-badge)](https://github.com/LegionLawand/Calculator)  
+[![Project 2](https://img.shields.io/badge/Portfolio-HTML/CSS-green?style=for-the-badge)](https://github.com/LegionLawand/Portfolio)  
+[![Project 3](https://img.shields.io/badge/Network_Sim-Cisco-orange?style=for-the-badge)](https://github.com/LegionLawand/Network_Sim)
 
 </div>
 
@@ -49,22 +61,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=LegionLawand&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegionLawand&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LegionLawand&theme=tokyonight&hide_border=true" width="60%"/>
+
 </div>
 
 ---
----
 
-##  Contact With Me
+## 📫 Contact Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@llawand.1 )
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LegionLawand)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawand-samih)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/llawand.1)
 
 </div>
 
@@ -74,6 +87,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer"/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=LegionLawand.LegionLawand&label=Profile%20Views&color=00d9ff)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LegionLawand.LegionLawand&label=Profile%20Views&color=00d9ff)
 
 </div>
