@@ -14,7 +14,6 @@
 
 | | |
 |---|---|
-| 🏫 School | Hawler Computer Institute |
 | 🎯 Focus | Programming + Networking |
 | 📖 Status | Student & lifelong learner |
 | 💬 Motto | Every expert was once a beginner |
