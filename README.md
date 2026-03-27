@@ -86,6 +86,6 @@
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br>React | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/><br>Python | <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="65" height="65"/><br>Linux |
+| <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br>React | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/><br>Python | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br>GitHub |
 
 </div>
