@@ -83,8 +83,10 @@
 
 ---
 <div align="center">
-| <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br> | React
----
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br>  React
+<br>
+
+  
 <td align="center" width="96">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LegionLawand.LegionLawand&label=Profile%20Views&color=00d9ff" alt="Visitors">
 </td>
