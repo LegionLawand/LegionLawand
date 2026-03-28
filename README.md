@@ -1,4 +1,4 @@
-<div align="center">
+W2<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=200&section=header&text=Lawand%20%20&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Student%20%7C%20Developer%20%7C%20Explorer&descAlignY=55&descSize=18"/>
 
@@ -87,6 +87,8 @@
 | | | |
 |:---:|:---:|:---:|
 | <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br>React | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/><br>Python | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/><br>GitHub |
+)
 
-<div>
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LegionLawand.LegionLawand&label=Profile%20Views&color=00d9ff)
+<td align="center" width="96">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LegionLawand.LegionLawand&label=Profile%20Views&color=00d9ff" alt="Visitors">
+</td>
