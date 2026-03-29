@@ -71,7 +71,7 @@
 
 ---
 
-## 📫 Contact Me
+##📩 Connect with Me
 
 <div align="center">
 
